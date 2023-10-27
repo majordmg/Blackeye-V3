@@ -1,3 +1,10 @@
+## BLACKEYE v3.0
+### UPDATES :
+##### The tool now accepts multiple sequential sets of credentials, instead of exiting after the first set of creds are submitted
+####  FOR ANY SUGGESTION CONTACT : majordmg on Github
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## BLACKEYE v2.0
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
